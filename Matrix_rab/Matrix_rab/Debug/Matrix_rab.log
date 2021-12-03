@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\PC\source\repos\Matrix_rab\Matrix_rab\Source.c(29,8): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\PC\source\repos\Matrix_rab\Matrix_rab\Source.c(97,1): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Matrix_rab.vcxproj -> C:\Users\PC\source\repos\Matrix_rab\Debug\Matrix_rab.exe
